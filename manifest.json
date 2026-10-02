@@ -2,7 +2,7 @@
   "name": "Домашка.ру",
   "short_name": "Домашка",
   "description": "Дневник домашних заданий",
-  "start_url": "/domashka/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#f0f2f5",
   "theme_color": "#4a90e2",
