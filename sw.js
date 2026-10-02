@@ -1,6 +1,10 @@
 const CACHE_NAME = "domashka-v1";
-const FILES = ["/", "/index.html", "/style.css", "/script.js"];
-
+const FILES = [
+  "/domashka/",
+  "/domashka/index.html",
+  "/domashka/style.css",
+  "/domashka/script.js"
+];
 // Установка: сохраняем файлы в кэш
 self.addEventListener("install", (e) => {
   e.waitUntil(
